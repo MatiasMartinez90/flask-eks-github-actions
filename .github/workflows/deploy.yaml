@@ -7,7 +7,7 @@ on:
 
 env:
   ECR_REPOSITORY: flask-app
-  EKS_CLUSTER_NAME: education-eks-jCBUdPwe
+  EKS_CLUSTER_NAME: education-eks-rh4r4rxe
   AWS_REGION: us-east-1
 
 jobs:
